@@ -8,6 +8,7 @@
 <center>
 
 ![协议](/User/image/logic.jpg)
+
 Figure 0 红外通信协议设计
 
 </center>
@@ -18,6 +19,7 @@ Figure 0 红外通信协议设计
 <center>
 
 ![发射](/User/image/tx_schematic.png)
+
 Figure 1 红外发射模块的schematic
 
 </center>
@@ -32,6 +34,7 @@ Figure 1 红外发射模块的schematic
 <center>
 
 ![接收](/User/image/rx_schematic.png)
+
 Figure 2 红外接收模块的schematic
 
 </center>
@@ -157,6 +160,7 @@ Figure 2 红外接收模块的schematic
 <center>
 
 ![发送逻辑](/User/image/logictx.drawio.png)
+
 Figure 3 红外发送逻辑
 
 </center>
@@ -220,6 +224,7 @@ Figure 3 红外发送逻辑
 <center>
 
 ![接收逻辑](/User/image/logicrx.drawio.png)
+
 Figure 4 红外接收逻辑
 
 </center>
